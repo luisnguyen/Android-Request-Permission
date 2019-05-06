@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleProject</string>
+    <string name="error_permission">Permission denied!</string>
+</resources>
